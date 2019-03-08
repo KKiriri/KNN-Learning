@@ -25,3 +25,9 @@ def Minkowski(x1, y1, lenght, p):
     for i in range(lenght):
         distance += abs(x1[i]-y1[i])**p
     return distance**(1/p)
+
+def KNN():
+    return None
+
+def sth():
+    return None
